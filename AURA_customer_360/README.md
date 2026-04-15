@@ -9,5 +9,7 @@ This directory contains the transformation layer of the AURA Revenue Intelligenc
 ## 🚀 How to Run
 1. Ensure your `profiles.yml` is configured for your local PostgreSQL instance.
 2. Install dependencies:
+
    ```bash
    dbt deps
+   ```
