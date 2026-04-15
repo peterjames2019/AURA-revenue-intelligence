@@ -1,0 +1,12 @@
+# dbt artifacts
+target/
+dbt_packages/
+logs/
+
+# Environment/Secrets
+.env
+profiles.yml
+
+# Large Data
+*.csv
+*.json

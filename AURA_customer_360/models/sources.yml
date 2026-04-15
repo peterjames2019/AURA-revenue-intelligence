@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: aura_retail_source
+    schema: aura_retail
+    tables:
+      - name: raw_retail_data
+      - name: crm_support_tickets
+      - name: marketing_email_stats
