@@ -6,7 +6,7 @@ AURA Revenue Intelligence is a data engineering project that unifies fragmented 
 ## 📊 Data Lineage (The "How")
 The project follows a modular Medallion architecture (Staging -> Marts) to transform raw data into a deduplicated Analytical Mart.
 
-![Data Lineage Graph](./AURA_customer_360/lineage_graph.png) 
+![Data Lineage Graph](./lineagegraph.PNG) 
 
 ## 🛠️ Tech Stack
 * **Database:** PostgreSQL
